@@ -1,0 +1,65 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-adv-1 {
+    width: 119px;
+    height: 119px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-adv-2 {
+    width: 123px;
+    height: 120px;
+    background-position: -5px -134px;
+}
+
+.sprite-icon-adv-3 {
+    width: 98px;
+    height: 120px;
+    background-position: -5px -264px;
+}
+
+.sprite-icon-adv-4 {
+    width: 119px;
+    height: 119px;
+    background-position: -5px -394px;
+}
+
+.sprite-icon-adv-5 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -523px;
+}
+
+.sprite-icon-more-1 {
+    width: 118px;
+    height: 94px;
+    background-position: -5px -651px;
+}
+
+.sprite-icon-more-2 {
+    width: 96px;
+    height: 96px;
+    background-position: -5px -755px;
+}
+
+.sprite-icon-more-3 {
+    width: 130px;
+    height: 60px;
+    background-position: -5px -861px;
+}
+
+.sprite-icon-more-4 {
+    width: 124px;
+    height: 112px;
+    background-position: -5px -931px;
+}
+
+.sprite-icon-sales {
+    width: 73px;
+    height: 73px;
+    background-position: -5px -1053px;
+}
